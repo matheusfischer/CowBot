@@ -1,0 +1,14 @@
+<manifest>
+    <main-class>com.runemate.matheusfischer.bots.CowBot.CowBot</main-class>
+    <name>CowBot</name>
+    <tag-line></tag-line><!--Max of 50 chars-->
+    <description></description><!--Max of 110 chars-->
+    <version>1.0</version>
+    <compatibility>
+        <game>RS3</game>
+    </compatibility>
+    <categories>
+        <category>COMBAT</category>
+    </categories>
+    <internal-id>CowBot</internal-id>
+</manifest>
