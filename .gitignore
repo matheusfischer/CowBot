@@ -1,2 +1,4 @@
 # Ignore IntelliJ project.
 .idea/
+# Ignore OS X DS_Store
+.DS_Store/
